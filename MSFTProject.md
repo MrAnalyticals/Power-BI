@@ -57,7 +57,10 @@ If you want a pre-built dashboard:
 1. Go to [Power BI Service](https://app.powerbi.com)  
 2. Click **Apps > Get Apps**  
 3. Search for **Project Online Content Pack**  
-4. Install it and configure the OData connection.  
+4. Install it and configure the OData connection.
+
+5. ![image](https://github.com/user-attachments/assets/a3efd61f-36e2-46d3-9636-a629a9cf2ac2)
+
 
 ---
 
