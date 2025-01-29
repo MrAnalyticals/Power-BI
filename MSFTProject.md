@@ -65,4 +65,8 @@ If you want a pre-built dashboard:
 Alternatively use the MSFT Project App
 
 ![image](https://github.com/user-attachments/assets/e6a347c6-dbc9-4f79-853d-cc970a713a61)
-�
+
+
+
+![image](https://github.com/user-attachments/assets/c4d7beb0-72e5-427b-ba67-f5e6b03e1105)
+
