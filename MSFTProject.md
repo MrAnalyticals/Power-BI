@@ -62,6 +62,7 @@ If you want a pre-built dashboard:
 5. ![image](https://github.com/user-attachments/assets/a3efd61f-36e2-46d3-9636-a629a9cf2ac2)
 
 
----
+Alternatively use the MSFT Project App
 
-Would you like help with building specific reports in Power BI? 🚀
+![image](https://github.com/user-attachments/assets/e6a347c6-dbc9-4f79-853d-cc970a713a61)
+�
