@@ -1,2 +1,2 @@
 
-Dislaying Pdfs in Power BI
+Displaying Pdfs in Power BI
